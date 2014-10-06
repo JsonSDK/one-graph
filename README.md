@@ -1,7 +1,7 @@
 JsonSDK - Graph
 ===============
 
-Graph database as a service. Compitiable with [Blueprint](https://github.com/tinkerpop/blueprints)
+Graph database as a service. Compatible with [Blueprint](https://github.com/tinkerpop/blueprints)
 
 ## Features
 
